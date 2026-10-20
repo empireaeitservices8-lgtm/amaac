@@ -101,7 +101,7 @@ export default function ContactPage() {
                       </div>
                       <div>
                         <strong style={{ display: 'block', fontSize: '0.78rem', color: '#64748b', textTransform: 'uppercase' }}>Phone / WhatsApp</strong>
-                        <a href="tel:+919846000000">+91 98460 00000</a> / <a href="tel:+919846011111">+91 98460 11111</a>
+                        <a href="tel:+919400290890">+91 94002 90890</a>
                       </div>
                     </div>
 
@@ -127,7 +127,7 @@ export default function ContactPage() {
                   </div>
 
                   <a
-                    href="https://wa.me/919846000000?text=Hello%20AMAAC%20India%20Desk,%20I%20need%20assistance"
+                    href="https://wa.me/919400290890?text=Hello%20AMAAC%20India%20Desk,%20I%20need%20assistance"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn btn-outline-primary btn-sm"
@@ -164,7 +164,7 @@ export default function ContactPage() {
                       </div>
                       <div>
                         <strong style={{ display: 'block', fontSize: '0.78rem', color: '#64748b', textTransform: 'uppercase' }}>Direct Line</strong>
-                        <a href="tel:+971500000000">+971 50 000 0000</a> / <a href="tel:+97140000000">+971 4 000 0000</a>
+                        <a href="tel:+97140000000">+971 4 000 0000</a>
                       </div>
                     </div>
 
@@ -190,7 +190,7 @@ export default function ContactPage() {
                   </div>
 
                   <a
-                    href="https://wa.me/919846000000?text=Hello%20AMAAC%20GCC%20Desk,%20I%20need%20assistance"
+                    href="https://wa.me/919400290890?text=Hello%20AMAAC%20GCC%20Desk,%20I%20need%20assistance"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn btn-outline-primary btn-sm"

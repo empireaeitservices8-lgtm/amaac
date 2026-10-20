@@ -6,7 +6,7 @@ import { useInquiry } from './InquiryContext';
 export function WhatsAppButton() {
   return (
     <a
-      href="https://wa.me/919846000000?text=Hello%20AMAAC%20INTERNATIONAL,%20I%20am%20inquiring%20about%20your%20services"
+      href="https://wa.me/919400290890?text=Hello%20AMAAC%20INTERNATIONAL,%20I%20am%20inquiring%20about%20your%20services"
       target="_blank"
       rel="noopener noreferrer"
       className="floating-whatsapp"

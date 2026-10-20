@@ -130,7 +130,7 @@ export default function StudyAbroadPage() {
                   Book 1-on-1 Counseling &rarr;
                 </button>
                 <a
-                  href="https://wa.me/919846000000?text=Hello%20AMAAC%20INTERNATIONAL,%20I%20want%20to%20study%20abroad"
+                  href="https://wa.me/919400290890?text=Hello%20AMAAC%20INTERNATIONAL,%20I%20want%20to%20study%20abroad"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn btn-outline-primary"
@@ -700,7 +700,7 @@ export default function StudyAbroadPage() {
                   Get Free Profile Evaluation
                 </button>
                 <a
-                  href="https://wa.me/919846000000?text=Hello%20AMAAC%20INTERNATIONAL,%20I%20want%20to%20apply%20for%20study%20abroad"
+                  href="https://wa.me/919400290890?text=Hello%20AMAAC%20INTERNATIONAL,%20I%20want%20to%20apply%20for%20study%20abroad"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn btn-outline-white"

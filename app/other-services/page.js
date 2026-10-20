@@ -36,7 +36,7 @@ export default function OtherServicesPage() {
                   Book a Service Now &rarr;
                 </button>
                 <a
-                  href="https://wa.me/919846000000?text=Hello%20AMAAC%20INTERNATIONAL,%20I%20need%20assistance%20with%20your%20services"
+                  href="https://wa.me/919400290890?text=Hello%20AMAAC%20INTERNATIONAL,%20I%20need%20assistance%20with%20your%20services"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn btn-outline-primary"
@@ -508,7 +508,7 @@ export default function OtherServicesPage() {
                   Request Urgent Assistance
                 </button>
                 <a
-                  href="https://wa.me/919846000000?text=Hello%20AMAAC%20INTERNATIONAL,%20I%20need%20urgent%20service%20support"
+                  href="https://wa.me/919400290890?text=Hello%20AMAAC%20INTERNATIONAL,%20I%20need%20urgent%20service%20support"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn btn-outline-white"
